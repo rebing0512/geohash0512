@@ -5,7 +5,7 @@ geohash
 
 
 ```php
-use Rebing0512\Geohash0512;
+use Rebing0512\Geohashs;
 
 $length = 6;
 

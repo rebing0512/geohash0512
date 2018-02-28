@@ -1,9 +1,9 @@
 {
-    "name": "rebing0512\geohash0512",
+    "name": "rebing0512\geohashs",
     "type": "library",
     "description": "Geohash library for php",
     "keywords": ["geohash"],
-    "homepage": "https://github.com/rebing0512/geohash0512",
+    "homepage": "https://github.com/rebing0512/geohashs",
     "license": "MIT",
     "authors": [
         {
