@@ -1,5 +1,5 @@
 {
-    "name": "rebing0512\geohashs",
+    "name": "rebing0512/geohashs",
     "type": "library",
     "description": "Geohash library for php",
     "keywords": ["geohash"],
