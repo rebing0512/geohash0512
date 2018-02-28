@@ -1,6 +1,6 @@
 <?php
 
-namespace Cevin;
+namespace Rebing0512;
 
 class Geohash {
 

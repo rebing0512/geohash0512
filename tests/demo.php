@@ -2,7 +2,7 @@
 
 require_once __DIR__.'/../src/Geohash.php';
 
-use Cevin\Geohash;
+use Rebing0512\Geohash;
 
 $length = 6;
 

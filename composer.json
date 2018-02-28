@@ -1,16 +1,14 @@
 {
-    "name": "cevin/geohash",
+    "name": "rebing0512\geohash0512",
     "type": "library",
     "description": "Geohash library for php",
     "keywords": ["geohash"],
-    "homepage": "https://github.com/cevin/geohash",
+    "homepage": "https://github.com/rebing0512/geohash0512",
     "license": "MIT",
     "authors": [
         {
-            "name": "cevin",
-            "email": "cevin.cheung@gmail.com",
-            "homepage": "http://cevin.net",
-            "role": "Developer"
+            "name": "rebing0512",
+            "email": "rebing0512@aliyun.com"
         }
     ],
     "require": {
@@ -18,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cevin\\": "src/"
+            "Rebing0512\\": "src/"
         }
     }
 }
